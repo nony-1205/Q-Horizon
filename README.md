@@ -63,7 +63,11 @@ Shared code is in `src/` (`data_load.py`, `data_load_ionosphere.py`, `preprocess
 - Breast Cancer ZZ is a single split because each 455-sample kernel took about 40 minutes.
 - Test sets are small (114 and 71), so differences under about 3 points are within noise.
 - Scaler and PCA are fit before cross-validation (small unsupervised leakage).
+<<<<<<< HEAD
 - Simulators only; 4 qubits (amplitude 2); no variational classifier.
+=======
+- Simulator only; 4 qubits; no variational classifier.
+>>>>>>> 66dabf009ac87f5f7badcc6ca26d69bdde5c9857
 - C values in the ZZ sweep table were explored on the test set, so the sweep is exploratory.
 
 ## AI usage
