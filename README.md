@@ -69,7 +69,7 @@ Shared code is in `src/` (`data_load.py`, `data_load_ionosphere.py`, `preprocess
 
 ## AI usage
 
-We used Claude (Anthropic) as an assistant for: explaining SVM, kernels, encoding methods and QSVM concepts; debugging code; reviewing results; generating ppt slides. All code was run by the team, and results come from our own runs. 
+We used Claude (Anthropic) as an assistant for: explaining SVM, kernels, encoding methods and QSVM concepts; debugging code; reviewing results;modifying report; generating ppt slides. All code was run by the team, and results come from our own runs. 
 
 
 ## Credits
